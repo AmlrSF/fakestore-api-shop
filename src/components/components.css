@@ -1,0 +1,21 @@
+.input-field{
+    width: 350px;
+    outline: none;
+    border: none;
+}
+
+@media screen and (max-width:767px) {
+    .input-field{
+        width: 150px;
+
+    }
+}
+
+
+.load{
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    border: 6px solid #1976d2;
+
+}
