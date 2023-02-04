@@ -1,5 +1,6 @@
+e-commerce-shop react app
 
 Fake Store API : https://fakestoreapi.com/
 
-dependencies : @mui/icons-material ,@mui/material
+materialUi : https://mui.com/
 
